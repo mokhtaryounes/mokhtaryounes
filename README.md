@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👨‍💻⚡ Mokhtar Younes  
-### Web Developer | Content Creator 🎥  
+# 👨‍💻⚡ Mokhtar Younes
+### Web Developer | Content Creator 🎥
 
-💻 بكتب كود  
-🎥 بشرح برمجة  
-☕ وبعيش على القهوة  
+💻 I write code  
+🎥 I create dev content  
+☕ Powered by coffee & bugs  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=orange&style=flat)
 
@@ -19,11 +19,11 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Web Developer مهتم بـ **Front-End**
-- 🎥 بعمل محتوى برمجة على **TikTok & YouTube**
-- 🧠 بحب أبسط المعلومة المعقدة
-- 🔥 هدفي أتعلم أكتر وأفيد غيري
-- 😄 Bug fixer by day, Content creator by night
+- 👨‍💻 Front-End focused **Web Developer**
+- 🎥 Creating **educational programming content**
+- 🧠 I love simplifying complex concepts
+- 🔥 Learning every day & sharing the journey
+- 😄 Bug fixer by day, content creator by night
 
 ---
 
@@ -34,7 +34,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
@@ -42,9 +42,9 @@
 ---
 
 ```js
-// my life as a developer 😅
+// daily routine as a developer 😅
 
-while (alive) {
+while (true) {
   code();
   fixBugs();
   createContent();
