@@ -5,7 +5,6 @@
 
 💻 I write code  
 🎥 I create dev content  
-☕ Powered by coffee & bugs  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=orange&style=flat)
 
